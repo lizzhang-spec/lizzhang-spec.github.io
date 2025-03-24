@@ -36,53 +36,53 @@ author_profile: true
 }
 </style>
 
-<span class='anchor' id='about-me'></span>
-# 😉 About me
+<span class='anchor' id='Biography'></span>
+# Biography
 
 I am currently studying for **Ph.D degree (successive postgraduate and doctoral programs of study)** in the *School of Computer Science, Nanjing University of Information Science and Technology (NUIST)*. I have strong scientific research ability and development ability, master most of the commonly used technologies, and have certain scientific research achievements and development experience.
 
 My research direction is **Evolutionary Deep Learning**, mainly including **Neural architecture search (NAS)** and **Network Pruning**.
 
 
-<span class='anchor' id='-educations'></span>
-# 📖 Educations
+<span class='anchor' id='My qualifications'></span>
+# My qualifications
 - *2022.06 - now*, School of Computer Science, Nanjing University of Information Science and Technology (NUIST), Ph.D.
 - *2020.09 - 2022.06*, School of Computer Science, Nanjing University of Information Science and Technology (NUIST), M.Sc (successive postgraduate and doctoral programs of study).
 - *2016.09 - 2020.06*, School of Computer Science, Nanjing University of Information Science and Technology (NUIST), B.S.
 
 
-<span class='anchor' id='-awards'></span>
+# <span class='anchor' id='-awards'></span>
 # 🎖 Awards
 ### During the period of Ph.D
-- *2024.10*, NUIST Graduate "Puxin" Elite Scholarship (A total of 10 students from the entire school related to integrated circuit engineering are selected.)
-- *2024.10*, NUIST "Excellent Scholarship for Graduate Students and Academic Scholarship" **2nd prize** **<font color="red">(2/8，<5%)</font>**
-- *2023.12* 2022-2023 Graduate "Qi'anxin Scholarship"
-- *2023.12*, NUIST "Merit Graduate Student"
-- *2023.11*, NUIST "Excellent Scholarship for Graduate Students and Academic Scholarship" **1st prize** **<font color="red">(1/8，<5%)</font>**
-- *2022.11*, NUIST "Scholarship for Outstanding freshmen and academic scholarship" **2nd prize**
+#- *2024.10*, NUIST Graduate "Puxin" Elite Scholarship (A total of 10 students from the entire school related to integrated circuit engineering are selected.)
+#- *2024.10*, NUIST "Excellent Scholarship for Graduate Students and Academic Scholarship" **2nd prize** **<font color="red">(2/8，<5%)</font>**
+#- *2023.12* 2022-2023 Graduate "Qi'anxin Scholarship"
+#- *2023.12*, NUIST "Merit Graduate Student"
+#- *2023.11*, NUIST "Excellent Scholarship for Graduate Students and Academic Scholarship" **1st prize** **<font color="red">(1/8，<5%)</font>**
+#- *2022.11*, NUIST "Scholarship for Outstanding freshmen and academic scholarship" **2nd prize**
 
 ### During the period of M.Sc
-- *2021.12*, NUIST "Excellent Scholarship for Graduate Students and Academic Scholarship" **1st prize** **<font color="red">(3/68, <5%)</font>**
-- *2021.12*, NUIST "Merit Graduate Student"
-- *2020.12*, NUIST "Scholarship for Outstanding freshmen and academic scholarship" **2nd prize**
+#- *2021.12*, NUIST "Excellent Scholarship for Graduate Students and Academic Scholarship" **1st prize** **<font color="red">(3/68, <5%)</font>**
+#- *2021.12*, NUIST "Merit Graduate Student"
+#- *2020.12*, NUIST "Scholarship for Outstanding freshmen and academic scholarship" **2nd prize**
 
 ### During the period of B.Eng
-- *2020.06*, NUIST "Outstanding Graduate"
-- *2016.09 ~ 2020.06*, "Merit Student" at **College level** once and at **University level** once.
-- *2016.09 ~ 2020.06*, Academic Scholarships of University for many times.
-- *2018.04*, 9th "Lanqiao Cup Provincial C/C++ Program Design Group B" **2nd prize**.
-- *2017.11*, NUIST 8th Programming Competition **3rd prize**.
+#- *2020.06*, NUIST "Outstanding Graduate"
+#- *2016.09 ~ 2020.06*, "Merit Student" at **College level** once and at **University level** once.
+#- *2016.09 ~ 2020.06*, Academic Scholarships of University for many times.
+#- *2018.04*, 9th "Lanqiao Cup Provincial C/C++ Program Design Group B" **2nd prize**.
+#- *2017.11*, NUIST 8th Programming Competition **3rd prize**.
 
 
-<span class='anchor' id='-achievements'></span>
+#<span class='anchor' id='-achievements'></span>
 # 📝 Scientific Achievements (Updated on 2024/9/2)
 ### Under review/revision
-- 📜 **Paper:** **Pengcheng Jiang**, Yu Xue, Zhongyuan Hu, Bing Xue, Mengjie Zhang,"Surrogate-assisted performance ranking for evolutionary deep neural architecture search,". *IEEE Transactions on Knowledge and Data Engineering* **(Under revision \| Trans \| SCI \| CAS Q1 (2024) \| JCR Q1 \| IF: 8.9 \| CCF-A)** [[Open PDF after acceptance]]()
-- 📜 **Paper:** **Pengcheng Jiang**, Yu Xue, Ferrante Neri,"Score predictor-assisted evolutionary neural architecture search,". *IEEE Transactions on Emerging Topics in Computational Intelligence* **(Submitted with major revision on Aug. 16, 2024 \| Trans \| SCI \| CAS Q3 (2024) \| JCR Q1 \| IF: 5.3)** [[Open PDF after acceptance]]()
-- 📜 **Paper:** Yu Xue, **Pengcheng Jiang**, "Multi-objective self-adaptive PSO for classification in intrusion detection with high-dimensional, unbalanced and cost-sensitive data,". *IEEE Transactions on Computational Social Systems* **(Submited on Aug. 16 2024 \| Trans \| SCI \| CAS Q1 \| JCR Q1 \| IF: 12.3 \| CCF-C)** [[Open PDF after acceptance]]()
-- 📜 **Paper:** **Pengcheng Jiang**, Yu Xue, Ferrante Neri,"Multi-objective neural architecture search as bilevel optimisation: A novel surrogate approach,". *IEEE Transactions on Evolutionary Computation* **(Submited on Jul. 29, 2024 \| Trans \| SCI \| CAS Q1 (2024) \| JCR Q1 \| IF: 14.3 \| CCF-B)** [[Open PDF after acceptance]]()
-- 📜 **Paper:** Yu Xue, **Pengcheng Jiang**, Zhenman Zhang, Mengchu Zhou,"Neural architecture search based on a surrogate model with similarity measurement,". *IEEE Transactions on Cybernetics* **(Submited on Jul. 10, 2024 \| Trans \| SCI \| CAS Q1 (2024) \| JCR Q1 \| IF: 9.4 \| CCF-B)** [[Open PDF after acceptance]]()
-<!--  - 📜 **Paper:** **Pengcheng Jiang**, Yu Xue, Ferrante Neri, Ziming Yuan,"CoAM: Confidence attention module for deep convolutional,". **(Under modification)** [[Open PDF after acceptance]]()   -->
+#- 📜 **Paper:** **Pengcheng Jiang**, Yu Xue, Zhongyuan Hu, Bing Xue, Mengjie Zhang,"Surrogate-assisted performance ranking for evolutionary deep neural architecture search,". *IEEE Transactions on Knowledge and Data #Engineering* **(Under revision \| Trans \| SCI \| CAS Q1 (2024) \| JCR Q1 \| IF: 8.9 \| CCF-A)** [[Open PDF after acceptance]]()
+#- 📜 **Paper:** **Pengcheng Jiang**, Yu Xue, Ferrante Neri,"Score predictor-assisted evolutionary neural architecture search,". *IEEE Transactions on Emerging Topics in Computational Intelligence* **(Submitted with #major revision on Aug. 16, 2024 \| Trans \| SCI \| CAS Q3 (2024) \| JCR Q1 \| IF: 5.3)** [[Open PDF after acceptance]]()
+#- 📜 **Paper:** Yu Xue, **Pengcheng Jiang**, "Multi-objective self-adaptive PSO for classification in intrusion detection with high-dimensional, unbalanced and cost-sensitive data,". *IEEE Transactions on Computational #Social Systems* **(Submited on Aug. 16 2024 \| Trans \| SCI \| CAS Q1 \| JCR Q1 \| IF: 12.3 \| CCF-C)** [[Open PDF after acceptance]]()
+#- 📜 **Paper:** **Pengcheng Jiang**, Yu Xue, Ferrante Neri,"Multi-objective neural architecture search as bilevel optimisation: A novel surrogate approach,". *IEEE Transactions on Evolutionary Computation* **(Submited #on Jul. 29, 2024 \| Trans \| SCI \| CAS Q1 (2024) \| JCR Q1 \| IF: 14.3 \| CCF-B)** [[Open PDF after acceptance]]()
+#- 📜 **Paper:** Yu Xue, **Pengcheng Jiang**, Zhenman Zhang, Mengchu Zhou,"Neural architecture search based on a surrogate model with similarity measurement,". *IEEE Transactions on Cybernetics* **(Submited on Jul. 10, #2024 \| Trans \| SCI \| CAS Q1 (2024) \| JCR Q1 \| IF: 9.4 \| CCF-B)** [[Open PDF after acceptance]]()
+#<!--  - 📜 **Paper:** **Pengcheng Jiang**, Yu Xue, Ferrante Neri, Ziming Yuan,"CoAM: Confidence attention module for deep convolutional,". **(Under modification)** [[Open PDF after acceptance]]()   -->
 
 
 ### Published
