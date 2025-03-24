@@ -4,14 +4,14 @@ description              : "Ph.D Student, Deep Learning, Computer Vision"
 # Site Author
 author:
   name             : "张易霞 (Yixia Zhang)"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/001.png"
   bio              : "University of Surrey"
   location         : "Guildford, United Kingdom"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Wd_AsMYAAAAJ&hl=zh-CN"
-  email            : "pcjiang@nuist.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/Pengcheng-Jiang-3"
+  email            : "yixia.zhang@surrey.ac.uk"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -19,7 +19,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "pcjiang1998"
+  github           : "lizzhang-spec"
   google_plus      :
   keybase          :
   instagram        :
@@ -27,7 +27,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0000-0002-9625-697X"
+  orcid            : # "https://orcid.org/0000-0002-9625-697X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
