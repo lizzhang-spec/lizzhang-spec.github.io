@@ -39,10 +39,9 @@ author_profile: true
 <span class='anchor' id='Biography'></span>
 # Biography
 
-I am currently studying for **Ph.D degree (successive postgraduate and doctoral programs of study)** in the *School of Computer Science, Nanjing University of Information Science and Technology (NUIST)*. I have strong scientific research ability and development ability, master most of the commonly used technologies, and have certain scientific research achievements and development experience.
+I am an early-career researcher passionate about Optimization, Generative AI, and Machine Learning. My work explores the intersection of these fields, aiming to develop innovative approaches and advance theoretical insights. Committed to continuous learning, I strive to deepen my understanding and contribute meaningful research to the academic community.
 
-My research direction is **Evolutionary Deep Learning**, mainly including **Neural architecture search (NAS)** and **Network Pruning**.
-
+I am currently focused on algorithm design for optimization problems in generative models, with a particular emphasis on **Neural Architecture Search (NAS)**, **Generative Adversarial Networks (GANs)**, and **Large Language Models (LLMs)**.
 
 <span class='anchor' id='My qualifications'></span>
 # My qualifications
