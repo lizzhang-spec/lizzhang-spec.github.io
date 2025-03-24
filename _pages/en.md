@@ -3,8 +3,8 @@ permalink: /en
 title: ""
 excerpt: ""
 author_profile: true
-# redirect_from: 
-#   - /en.html
+redirect_from: 
+  - /
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
