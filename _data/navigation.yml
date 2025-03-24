@@ -12,9 +12,9 @@ main:
   #  title_en: "Skills"
   #  title_zh: "技术优势"
 
-  - url: "#Research interests" 
-    title_en: "Research interests"
-    title_zh: "研究方向"
+  #- url: "#Research interests" 
+  #  title_en: "Research interests"
+  #  title_zh: "研究方向"
     
   - url: "#Publications" 
     title_en: "Publications"
