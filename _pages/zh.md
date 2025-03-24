@@ -39,20 +39,18 @@ redirect_from:
 <span class='anchor' id='Biography'></span>
 # 简介
 
-本人目前于*南京信息工程大学·计算机学院*攻读**博士（硕博连读）**。本人具有较强的科研能力和开发能力，掌握大部分常用的技术，具有一定的科研成果和开发经历。
-
-本人研究方向为**演化深度学习** (Evolutionary Deep Learning)，主要包括**神经网络架构搜索** (Neural architecture search，NAS) 和**网络剪枝**(Network Pruning)，目前感兴趣的方向还包括大语言模型（LLM）与演化结合的相关研究。
+本人研究方向涉及生成模型中的优化问题，主要包括神经架构搜索（NAS）、生成对抗网络（GANs）和大型语言模型（LLMs）的算法设计。
 
 
 <span class='anchor' id='My qualifications'></span>
 # 教育经历
-- *2022.06 - now*，南京信息工程大学，计算机科学与技术，博士（硕博连读）
-- *2020.09 - 2022.06*，南京信息工程大学，软件工程，硕士 
-- *2016.09 - 2020.06*，南京信息工程大学，软件工程，本科
+- *2026.10 - 至今*，英国萨里大学，计算机科学与电子工程，博士
+- *2021.09 - 2024.06*，南京信息工程大学，软件工程，硕士 
+- *2017.09 - 2021.06*，南京信息工程大学滨江学院，计算机科学与技术，本科
 
 
 
-### 发表论文
+# 发表论文
 - **Yixia Zhang**, Yu Xue, Ferrante Neri, "Multi-Optimiser Training for GANs based on Evolutionary Computation,". 2024 IEEE Congress on Evolutionary Computation (CEC), Yokohama, Japan, 2024, pp. 1-8. [DOI: 10.1109/CEC60901.2024.10612002](https://doi.org/10.1109/CEC60901.2024.10612002) [[下载PDF]](https://ieeexplore.ieee.org/abstract/document/10612002)
 - Yu Xue, **Yixia Zhang**, Ferrante Neri, "A Method based on Evolutionary Algorithms and Channel Attention Mechanism to Enhance Cycle Generative Adversarial Network Performance for Image Translation[J],". International Journal of Neural Systems, 2023, 33(05): 2350026. [DOI: 10.1142/S0129065723500260](https://doi.org/10.1142/S0129065723500260) [[下载PDF]](https://www.worldscientific.com/doi/abs/10.1142/S0129065723500260)
 - Yu Xue, Weinan Tong, Ferrante Neri, **Yixia Zhang**, "Pegans: phased evolutionary generative adversarial networks with self-attention module[J],". Mathematics, 2022, 10(15): 2792. [DOI: 10.3390/math10152792](https://doi.org/10.3390/math10152792) [[下载PDF]](https://www.mdpi.com/2227-7390/10/15/2792)
