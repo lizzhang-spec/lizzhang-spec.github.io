@@ -46,8 +46,8 @@ I am currently focused on algorithm design for optimization problems in generati
 <span class='anchor' id='My qualifications'></span>
 # My qualifications
 - *2024.10 - now*, School of Computer Science and Electronic Engineering, University of Surrey, Guildford, United Kingdom, Ph.D.
-- *2021.09 - 2024.06*, School of Software, Nanjing University of Information Science and Technology (NUIST), Nanjing, Jiangsu Province, China, M.S.
-- *2017.09 - 2021.06*, School of Computer Science and Technology, Nanjing University of Information Science and Technology (NUIST), Nanjing, Jiangsu Province, China, B.S.
+- *2021.09 - 2024.06*, School of Software, Nanjing University of Information Science and Technology (NUIST), Nanjing, Jiangsu, China, M.S.
+- *2017.09 - 2021.06*, School of Computer Science and Technology, Binjiang College, Nanjing University of Information Science and Technology (NUIST), Nanjing, Jiangsu, China, B.S.
 
 
 # Publications
