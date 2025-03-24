@@ -45,14 +45,14 @@ redirect_from:
 
 
 <span class='anchor' id='My qualifications'></span>
-# 📖 教育经历
+# 教育经历
 - *2022.06 - now*，南京信息工程大学，计算机科学与技术，博士（硕博连读）
 - *2020.09 - 2022.06*，南京信息工程大学，软件工程，硕士 
 - *2016.09 - 2020.06*，南京信息工程大学，软件工程，本科
 
 
 
-### 已发表/出版
+### 发表论文
 - **Yixia Zhang**, Yu Xue, Ferrante Neri, "Multi-Optimiser Training for GANs based on Evolutionary Computation,". 2024 IEEE Congress on Evolutionary Computation (CEC), Yokohama, Japan, 2024, pp. 1-8. [DOI: 10.1109/CEC60901.2024.10612002](https://doi.org/10.1109/CEC60901.2024.10612002) [[下载PDF]](https://ieeexplore.ieee.org/abstract/document/10612002)
 - Yu Xue, **Yixia Zhang**, Ferrante Neri, "A Method based on Evolutionary Algorithms and Channel Attention Mechanism to Enhance Cycle Generative Adversarial Network Performance for Image Translation[J],". International Journal of Neural Systems, 2023, 33(05): 2350026. [DOI: 10.1142/S0129065723500260](https://doi.org/10.1142/S0129065723500260) [[下载PDF]](https://www.worldscientific.com/doi/abs/10.1142/S0129065723500260)
-- Yu Xue, Weinan Tong, Ferrante Neri, **Yixia Zhang**, "Pegans: phased evolutionary generative adversarial net
+- Yu Xue, Weinan Tong, Ferrante Neri, **Yixia Zhang**, "Pegans: phased evolutionary generative adversarial networks with self-attention module[J],". Mathematics, 2022, 10(15): 2792. [DOI: 10.3390/math10152792](https://doi.org/10.3390/math10152792) [[下载PDF]](https://www.mdpi.com/2227-7390/10/15/2792)
