@@ -42,7 +42,7 @@ author_profile: true
 本人研究方向涉及生成模型中的优化问题，主要包括神经架构搜索（NAS）、生成对抗网络（GANs）和大型语言模型（LLMs）的算法设计。
 
 
-<span class='anchor' id='-My qualifications'></span>
+<span class='anchor' id='-Qualifications'></span>
 # 教育经历
 - *2026.10 - 至今*，英国萨里大学，计算机科学与电子工程，博士
 - *2021.09 - 2024.06*，南京信息工程大学，软件工程，硕士 
