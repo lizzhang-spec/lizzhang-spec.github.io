@@ -49,7 +49,7 @@ I am currently focused on algorithm design for optimization problems in generati
 - *2021.09 - 2024.06*, School of Software, Nanjing University of Information Science and Technology (NUIST), Nanjing, Jiangsu, China, M.S.
 - *2017.09 - 2021.06*, School of Computer Science and Technology, Binjiang College, Nanjing University of Information Science and Technology (NUIST), Nanjing, Jiangsu, China, B.S.
 
-
+<span class='anchor' id='-Publications'></span>
 # Publications
 - **Yixia Zhang**, Yu Xue, Ferrante Neri, "Multi-Optimiser Training for GANs based on Evolutionary Computation,". 2024 IEEE Congress on Evolutionary Computation (CEC), Yokohama, Japan, 2024, pp. 1-8. [DOI: 10.1109/CEC60901.2024.10612002](https://doi.org/10.1109/CEC60901.2024.10612002) [[Download PDF]](https://ieeexplore.ieee.org/abstract/document/10612002)
 - Yu Xue, **Yixia Zhang**, Ferrante Neri, "A Method based on Evolutionary Algorithms and Channel Attention Mechanism to Enhance Cycle Generative Adversarial Network Performance for Image Translation[J],". International Journal of Neural Systems, 2023, 33(05): 2350026. [DOI: 10.1142/S0129065723500260](https://doi.org/10.1142/S0129065723500260) [[Download PDF]](https://www.worldscientific.com/doi/abs/10.1142/S0129065723500260)
