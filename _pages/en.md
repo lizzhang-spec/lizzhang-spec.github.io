@@ -43,7 +43,7 @@ I am an early-career researcher passionate about Optimization, Generative AI, an
 
 I am currently focused on algorithm design for optimization problems in generative models, with a particular emphasis on **Neural Architecture Search (NAS)**, **Generative Adversarial Networks (GANs)**, and **Large Language Models (LLMs)**.
 
-<span class='anchor' id='-My qualifications'></span>
+<span class='anchor' id='-Qualifications'></span>
 # My qualifications
 - *2024.10 - now*, School of Computer Science and Electronic Engineering, University of Surrey, Guildford, United Kingdom, Ph.D.
 - *2021.09 - 2024.06*, School of Software, Nanjing University of Information Science and Technology (NUIST), Nanjing, Jiangsu, China, M.S.
