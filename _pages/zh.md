@@ -44,13 +44,13 @@ author_profile: true
 
 <span class='anchor' id='-Qualifications'></span>
 # 教育经历
-- *2026.10 - 至今*，英国萨里大学，计算机科学与电子工程，博士
-- *2021.09 - 2024.06*，南京信息工程大学，软件工程，硕士 
-- *2017.09 - 2021.06*，南京信息工程大学滨江学院，计算机科学与技术，本科
+- *2026.10 - **至今***，英国萨里大学，计算机科学与电子工程，**博士**
+- *2021.09 - 2024.06*，南京信息工程大学，软件工程，**硕士** 
+- *2017.09 - 2021.06*，南京信息工程大学滨江学院，计算机科学与技术，**本科**
 
 
 <span class='anchor' id='-Publications'></span>
 # 发表论文
-- **Yixia Zhang**, Yu Xue, Ferrante Neri, "Multi-Optimiser Training for GANs based on Evolutionary Computation,". 2024 IEEE Congress on Evolutionary Computation (CEC), Yokohama, Japan, 2024, pp. 1-8. [DOI: 10.1109/CEC60901.2024.10612002](https://doi.org/10.1109/CEC60901.2024.10612002) [[下载PDF]](https://ieeexplore.ieee.org/abstract/document/10612002)
-- Yu Xue, **Yixia Zhang**, Ferrante Neri, "A Method based on Evolutionary Algorithms and Channel Attention Mechanism to Enhance Cycle Generative Adversarial Network Performance for Image Translation[J],". International Journal of Neural Systems, 2023, 33(05): 2350026. [DOI: 10.1142/S0129065723500260](https://doi.org/10.1142/S0129065723500260) [[下载PDF]](https://www.worldscientific.com/doi/abs/10.1142/S0129065723500260)
-- Yu Xue, Weinan Tong, Ferrante Neri, **Yixia Zhang**, "PEGANs: Phased Evolutionary Generative Adversarial Networks with Self-attention Module[J],". Mathematics, 2022, 10(15): 2792. [DOI: 10.3390/math10152792](https://doi.org/10.3390/math10152792) [[下载PDF]](https://www.mdpi.com/2227-7390/10/15/2792)
+- **Yixia Zhang**, Yu Xue, Ferrante Neri, "Multi-Optimiser Training for GANs based on Evolutionary Computation,". 2024 IEEE Congress on Evolutionary Computation (CEC), Yokohama, Japan, 2024, pp. 1-8. [DOI: 10.1109/CEC60901.2024.10612002](https://doi.org/10.1109/CEC60901.2024.10612002) #[[下载PDF]](https://ieeexplore.ieee.org/abstract/document/10612002)
+- Yu Xue, **Yixia Zhang**, Ferrante Neri, "A Method based on Evolutionary Algorithms and Channel Attention Mechanism to Enhance Cycle Generative Adversarial Network Performance for Image Translation[J],". International Journal of Neural Systems, 2023, 33(05): 2350026. [DOI: 10.1142/S0129065723500260](https://doi.org/10.1142/S0129065723500260) #[[下载PDF]](https://www.worldscientific.com/doi/abs/10.1142/S0129065723500260)
+- Yu Xue, Weinan Tong, Ferrante Neri, **Yixia Zhang**, "PEGANs: Phased Evolutionary Generative Adversarial Networks with Self-attention Module[J],". Mathematics, 2022, 10(15): 2792. [DOI: 10.3390/math10152792](https://doi.org/10.3390/math10152792) #[[下载PDF]](https://www.mdpi.com/2227-7390/10/15/2792)
