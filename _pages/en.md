@@ -39,7 +39,7 @@ redirect_from:
 <span class='anchor' id='Biography'></span>
 # Biography
 
-I am an early-career researcher passionate about Optimization Algorithm and Generative AI. My work explores the intersection of these fields, aiming to develop innovative approaches and advance theoretical insights. I am currently focused on algorithm design for optimization problems in generative models, with a particular emphasis on **Evolutionary Computation**, **Neural Architecture Search (NAS)**, **Generative Adversarial Networks (GANs)**, and **Diffusion Model**.
+I am an early-career researcher passionate about the intersection of optimization algorithms and generative AI. My research focuses on applying advanced optimization techniques to enhance the performance and efficiency of generative models. Currently, I am working on algorithm design in areas such as **Evolutionary Computation**, **Neural Architecture Search (NAS)**, **Generative Adversarial Networks (GANs)**, and **Diffusion Model**.
 
 <span class='anchor' id='-Qualifications'></span>
 # Qualifications
