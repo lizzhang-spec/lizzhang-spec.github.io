@@ -39,7 +39,7 @@ author_profile: true
 <span class='anchor' id='Biography'></span>
 # 简介
 
-本人研究方向涉及生成模型中的优化问题，主要包括神经架构搜索（NAS）、生成对抗网络（GANs）和大型语言模型（LLMs）的算法设计。
+本人研究方向涉及生成模型中的优化问题，主要包括演化计算，神经架构搜索（NAS）、生成对抗网络（GANs）和扩散模型的算法设计。
 
 
 <span class='anchor' id='-Qualifications'></span>
