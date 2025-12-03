@@ -39,13 +39,12 @@ redirect_from:
 <span class='anchor' id='Biography'></span>
 # Biography
 
-I am an early-career researcher passionate about the intersection of optimization algorithms and generative AI. My research focuses on applying advanced optimization techniques to enhance the performance and efficiency of generative models. Currently, I am working on algorithm design in areas such as **Evolutionary Computation**, **Neural Architecture Search (NAS)**, **Generative Adversarial Networks (GANs)**, and **Diffusion Model**.
+I am a PhD student at the University of Surrey in the UK. My research focuses on developing advanced optimization techniques for efficient generative models. I am supervised by Prof. Ferrante Neri and Dr. Xilu Wang. Currently, I am working on efficient Diffusion Models.
 
 <span class='anchor' id='-Qualifications'></span>
 # Qualifications
-- *2024.10 - **now***, School of Computer Science and Electronic Engineering, University of Surrey, Guildford, United Kingdom, **Ph.D**.
-- *2021.09 - 2024.06*, Software Engineering, Nanjing University of Information Science and Technology, Nanjing, Jiangsu, China, **M.S**.
-- *2017.09 - 2021.06*, Computer Science and Technology, Binjiang College, Nanjing University of Information Science and Technology, Nanjing, Jiangsu, China, **B.S**.
+- Software Engineering, Nanjing University of Information Science and Technology, Nanjing, Jiangsu, China, **M.S**.
+- Computer Science and Technology, Wuxi University, Wuxi, Jiangsu, China, **B.S**.
 
 <span class='anchor' id='-Publications'></span>
 # Publications
