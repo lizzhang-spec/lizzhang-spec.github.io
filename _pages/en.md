@@ -48,7 +48,7 @@ I am a PhD student at the University of Surrey in the UK. My research focuses on
 
 <span class='anchor' id='-Publications'></span>
 # Publications
-- **Zhang Y**, Neri F, Wang X, et al. Evolutionary Channel Pruning for Style-Based Generative Adversarial Networks[J]. International journal of neural systems, 2025: 2550070. [DOI: 10.1142/S0129065725500704](https://doi.org/10.1142/S0129065725500704)
+- **Yixia Zhang**, Ferrante Neri, Xilu Wang, Pengcheng Jiang. Evolutionary Channel Pruning for Style-Based Generative Adversarial Networks[J]. International Journal of Neural Systems, 2025: 2550070. [DOI: 10.1142/S0129065725500704](https://doi.org/10.1142/S0129065725500704)
 - **Yixia Zhang**, Yu Xue, Ferrante Neri, "Multi-Optimiser Training for GANs based on Evolutionary Computation,". 2024 IEEE Congress on Evolutionary Computation (CEC), Yokohama, Japan, 2024, pp. 1-8. [DOI: 10.1109/CEC60901.2024.10612002](https://doi.org/10.1109/CEC60901.2024.10612002)
 - Yu Xue, **Yixia Zhang**, Ferrante Neri, "A Method based on Evolutionary Algorithms and Channel Attention Mechanism to Enhance Cycle Generative Adversarial Network Performance for Image Translation[J],". International Journal of Neural Systems, 2023, 33(05): 2350026. [DOI: 10.1142/S0129065723500260](https://doi.org/10.1142/S0129065723500260) 
 - Yu Xue, Weinan Tong, Ferrante Neri, **Yixia Zhang**, "PEGANs: Phased Evolutionary Generative Adversarial Networks with Self-attention Module[J],". Mathematics, 2022, 10(15): 2792. [DOI: 10.3390/math10152792](https://doi.org/10.3390/math10152792)
