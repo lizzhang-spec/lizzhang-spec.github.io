@@ -39,7 +39,7 @@ author_profile: true
 <span class='anchor' id='Biography'></span>
 # 简介
 
-本人是英国萨里大学在读博士生，目前的研究方向为高效生成模型优化，涵盖演化算法，神经网络架构搜索，扩散模型，生成对抗网络，大模型等方法。
+本人是英国萨里大学在读博士生，以优化算法和生成模型为主要研究方向。
 
 
 <span class='anchor' id='-Qualifications'></span>
