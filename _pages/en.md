@@ -39,7 +39,7 @@ redirect_from:
 <span class='anchor' id='Biography'></span>
 # Biography
 
-I am a PhD student at the University of Surrey in the UK. My research focuses on developing advanced optimization techniques for efficient generative models. I am supervised by Prof. Ferrante Neri and Dr. Xilu Wang. Currently, I am working on efficient Diffusion Models and Large Language Models.
+I am a PhD student at the University of Surrey in the UK. My research focuses on Optimisation and Generative AI. I am supervised by Prof. Ferrante Neri and Dr. Xilu Wang.
 
 <span class='anchor' id='-Qualifications'></span>
 # Qualifications
