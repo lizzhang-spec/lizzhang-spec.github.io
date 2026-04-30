@@ -39,7 +39,7 @@ redirect_from:
 <span class='anchor' id='Biography'></span>
 # Biography
 
-I am a PhD student at the University of Surrey in the UK. My research focuses on Optimisation and Generative AI. I am supervised by Prof. Ferrante Neri and Dr. Xilu Wang.
+I am a PhD student at the University of Surrey in the UK. My research focuses on Multimodal Generative AI.
 
 <span class='anchor' id='-Qualifications'></span>
 # Qualifications
