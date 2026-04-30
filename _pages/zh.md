@@ -39,7 +39,7 @@ author_profile: true
 <span class='anchor' id='Biography'></span>
 # 简介
 
-本人是英国萨里大学在读博士生，以优化算法和生成模型为主要研究方向。
+本人是英国萨里大学在读博士生，以多模态生成模型为主要研究方向。
 
 
 <span class='anchor' id='-Qualifications'></span>
