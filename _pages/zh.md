@@ -42,10 +42,6 @@ author_profile: true
 本人是英国萨里大学在读博士生，以多模态生成模型为主要研究方向。
 
 
-<span class='anchor' id='-Qualifications'></span>
-# 教育经历
-- 南京信息工程大学，软件工程，**硕士** 
-- 无锡大学，计算机科学与技术，**本科**
 
 
 <span class='anchor' id='-Publications'></span>
