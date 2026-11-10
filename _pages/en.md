@@ -39,7 +39,11 @@ redirect_from:
 <span class='anchor' id='Biography'></span>
 # Biography
 
-I am a PhD student at the University of Surrey in the UK. My research focuses on Multimodal Generative AI.
+Hi there! I'm a PhD researcher at the University of Surrey, UK, under the supervision of Prof. Wenwu Wang and Dr Xilu Wang.
+
+I'm passionate about exploring how AI can become more efficient, capable, and accessible. My research focuses on **efficient generative AI** and **multimodal learning**, exploring how AI can create high-quality content using less computing power and better understand different types of information, such as images, text, audio etc. I hope to contribute to building AI systems that are both powerful and practical.
+
+Outside of research, I love travelling, exploring new places, and experiencing different cultures. I believe there's always something new to discover, both in research and in everyday life!
 
 
 <span class='anchor' id='-Publications'></span>
