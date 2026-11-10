@@ -41,7 +41,7 @@ redirect_from:
 
 Hi there! I'm a PhD researcher at the University of Surrey, UK, under the supervision of Prof. Wenwu Wang and Dr Xilu Wang.
 
-I'm passionate about exploring how AI can become more efficient, capable, and accessible. My research focuses on **efficient generative AI** and **multimodal learning**, exploring how AI can create high-quality content more efficiently while maintaining its quality, and better understand and connect different types of information, such as images, text, audio, etc. I hope to contribute to making AI more powerful, practical, and accessible.
+My research focuses on **efficient generative AI** and **multimodal learning**, particularly on improving efficiency without compromising generation quality, and enhancing how models understand and connect different types of information, such as images, text, and audio. I hope to contribute to making generative AI more efficient, capable, and accessible. 
 
 Outside of research, I love travelling, exploring new places, and experiencing different cultures. I believe there's always something new to discover, both in research and in everyday life!
 
