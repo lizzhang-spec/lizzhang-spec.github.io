@@ -41,10 +41,6 @@ redirect_from:
 
 I am a PhD student at the University of Surrey in the UK. My research focuses on Multimodal Generative AI.
 
-<span class='anchor' id='-Qualifications'></span>
-# Qualifications
-- Software Engineering, Nanjing University of Information Science and Technology, Nanjing, Jiangsu, China, **M.S**.
-- Computer Science and Technology, Wuxi University, Wuxi, Jiangsu, China, **B.S**.
 
 <span class='anchor' id='-Publications'></span>
 # Publications
